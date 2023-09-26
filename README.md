@@ -1,7 +1,8 @@
-Hi, my name is Tom McGinley
-- I am striving to become an artificial intelligence researcher.
-- I am interested in software development, robotics and machine learning techniques.
-- I am currently learning Python and C++.
+Hi, my name is Tom McGinley, first year Computer Science student.
+- Learning specialisations in machine learning and artificial intelligent systems.
+- Current languages:
+  - Haskell
+  - Python
 
 <!---
 Tom-McGinley/Tom-McGinley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
